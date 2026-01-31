@@ -45,3 +45,4 @@ SourceArt/**/*.tga
 Thumbs.db
 *.log
 *.pdb
+Saved/Logs/
